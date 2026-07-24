@@ -1,0 +1,29 @@
+# MemeLens - Python Dependencies
+# Dataset & ML Pipeline
+
+# Dataset downloading
+datasets>=3.0.0
+huggingface_hub>=0.20.0
+
+# Data processing
+pandas>=2.0.0
+pyarrow>=14.0.0
+
+# Image processing
+Pillow>=10.0.0
+imagehash>=4.3.0
+
+# OCR
+easyocr>=1.7.0
+
+# HTTP & API
+requests>=2.31.0
+
+# Progress bars
+tqdm>=4.66.0
+
+# ML (for later phases)
+# torch>=2.0.0
+# transformers>=4.35.0
+# sentence-transformers>=2.2.0
+# faiss-cpu>=1.7.4

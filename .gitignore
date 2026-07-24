@@ -1,0 +1,22 @@
+# Specified ignores
+scripts/
+real.txt
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Python / Cache / Env
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+*.env
+
+# System / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
